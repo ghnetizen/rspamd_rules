@@ -5,3 +5,4 @@
 /(Receive\ Delayed\ Messages|domchkserverman|unreceived\ emails\ will\ be\ deleted|janicepaper|easyburnketo\.net|cakematernity)/i
 /testing\-mxroute\-filtering\-system/i
 /Your\ account\ password\ is\ set\ to\ expire/i
+/Password\ Expiry\ Notification/i
