@@ -44,3 +44,4 @@
 /release all pending emails/i
 /receive all pending emails/i
 /will be stopped from sending and receiving emails/i
+/Failure to verify email would lead to closure/i
