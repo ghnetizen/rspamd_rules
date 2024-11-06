@@ -43,3 +43,4 @@
 /avoid mail storage crash/i
 /release all pending emails/i
 /receive all pending emails/i
+/will be stopped from sending and receiving emails/i
