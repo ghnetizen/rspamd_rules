@@ -34,3 +34,4 @@
 /\.work$/i
 /\.bar$/i
 /\.click$/i
+/\.shop$/i
