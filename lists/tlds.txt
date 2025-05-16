@@ -36,3 +36,4 @@
 /\.click$/i
 /\.shop$/i
 /\.edu.vn$/i
+/\.life$/i
