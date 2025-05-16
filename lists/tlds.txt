@@ -35,3 +35,4 @@
 /\.bar$/i
 /\.click$/i
 /\.shop$/i
+/\.edu.vn$/i
