@@ -35,5 +35,5 @@
 /\.bar$/i
 /\.click$/i
 /\.shop$/i
-/\.edu.vn$/i
+/\.vn$/i
 /\.life$/i
