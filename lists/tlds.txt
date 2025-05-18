@@ -37,3 +37,4 @@
 /\.shop$/i
 /\.vn$/i
 /\.life$/i
+/\.ar$/i
