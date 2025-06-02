@@ -172,3 +172,7 @@
 /requires E-mail/i
 /needs E-mail/i
 /needs Email/i
+/needs Contact Email/i
+/needs Contact E-mail/i
+/requires Contact Email/i
+/requires Contact E-mail/i
