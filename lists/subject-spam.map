@@ -167,7 +167,9 @@
 /message on hold/i
 /Mail Notification/i
 /Contact Email Verification/i
+/Contact E-mail Verification/i
 /Email address Verification/i
+/E-mail address Verification/i
 /requires Email/i
 /requires E-mail/i
 /needs E-mail/i
