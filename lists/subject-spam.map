@@ -129,31 +129,17 @@
 /Your account and page will be disable/i
 /Database update for/i
 /WeTransfer/i
-/Email address confirmation for/i
-/E-mail address Confirmation for/i
-/Email Confirmation for/i
-/Email Confirm for/i
-/E-mail Confirm for/i
-/E-mail address Confirm for/i
-/Email address Confirm for/i
+/(Email address confirmation for|E-mail address Confirmation for|Email Confirmation for|Email Confirm for|E-mail Confirm for|E-mail address Confirm for|Email address Confirm for)/i
 /Incoming Mails On Hold/i
-/Ongoing Deactivation request/i
+/(Ongoing Deactivation request|Email Deactivation Request|Email Deactivation)/i
 /Password Expiry Notice/i
-/Email Deactivation Request/i
-/Email Deactivation/i
 /Verify Your E-mail to enjoy Fresh Additions/i
 /Verify Your Contact E-mail address to enjoy Exciting Updates/i
 /Password Expiry Notification/i
 /Verify Your Contact Email/i
 /Fresh Additions/i
-/Email to/i
-/E-mail to/i
-/Email address to/i
-/E-mail address to/i
-/Confirm Email Address for/i
-/Confirm E-mail Address for/i
-/Confirm Email for/i
-/Confirm E-mail for/i
+/(Email to|E-mail to|Email address to|E-mail address to)/i
+/(Confirm Email Address for|Confirm E-mail Address for|Confirm Email for|Confirm E-mail for)/i
 /Content Misuse/i
 /Unlicensed Media Detected/i
 /Account Warning/i
@@ -163,13 +149,9 @@
 /violation/i
 /copyright/i
 /too many messages on hold/i
-/messages on hold/i
-/message on hold/i
+/(messages on hold|message on hold)/i
 /Mail Notification/i
-/Contact Email Verification/i
-/Contact E-mail Verification/i
-/Email address Verification/i
-/E-mail address Verification/i
+/(Contact Email Verification|Contact E-mail Verification|Email address Verification|E-mail address Verification)/i
 /requires Email/i
 /requires E-mail/i
 /needs E-mail/i
@@ -183,10 +165,7 @@
 /Password Expir/i
 /Infringement/i
 /mass deleting/i
-/Reconfirm email/i
-/Reconfirm e-mail/i
-/Re-confirm email/i
-/Re-confirm e-mail/i
+/(Reconfirm email|Reconfirm e-mail|Re-confirm email|Re-confirm e-mail)/i
 /Join Meeting Link/i
 /Urgent Security Notice/i
 /Security Notice/i
@@ -199,12 +178,8 @@
 /Policy Breach/i
 /Content Adjustment/i
 /Community Policy/i
-/e-mail Confirm/i
-/email Confirm/i
-/Email Confirmation/i
-/E-mail Confirmation/i
-/E-mail Check for/i
-/Email Check for/i
+/(e-mail Confirm|email Confirm|Email Confirmation|E-mail Confirmation)/i
+/(E-mail Check for|Email Check for)/i
 /suspended incoming/i
 /incoming messages/i
 /will be deactivated/i
