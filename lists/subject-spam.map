@@ -111,7 +111,7 @@
 /30 days left in your free trial/i
 /REQUIREMENT FOR QUOTATION TO SUPPLY/i
 /You Have Pending Emails/i
-/Emails Pending/i
+/(Emails Pending|Emails Held)/i
 /Document for Review and Sign/i
 /Mail account update/i
 /Important Fax /i
@@ -170,7 +170,7 @@
 /(e-mail Confirm|email Confirm|Email Confirmation|E-mail Confirmation)/i
 /(E-mail Check for|Email Check for)/i
 /suspended incoming/i
-/incoming messages/i
+/(incoming messages|Incoming Emails)/i
 /will be deactivated/i
 /File Upload Notification/i
 /sent you files/i
