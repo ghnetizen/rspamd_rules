@@ -178,3 +178,4 @@
 /Incoming Failed/i
 /(RE-VALIDATE|RE-VALIDATE SSL)/i
 /email is outdated/i
+/SECURE MESSAGE/i
