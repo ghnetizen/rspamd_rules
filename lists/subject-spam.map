@@ -167,7 +167,7 @@
 /Policy Breach/i
 /Content Adjustment/i
 /Community Policy/i
-/(e-mail Confirm|email Confirm|Email address Confirm|e-mail address Confirm|Email Confirmation|E-mail Confirmation)/i
+/(e-mail Confirm|email Confirm|Email address Confirm|e-mail address Confirm|Email Confirmation|E-mail Confirmation|project e-mail address Confirmation)/i
 /(E-mail Check for|Email Check for)/i
 /suspended incoming/i
 /(incoming messages|Incoming Emails)/i
