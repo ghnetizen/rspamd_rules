@@ -179,4 +179,4 @@
 /(RE-VALIDATE|RE-VALIDATE SSL)/i
 /email is outdated/i
 /SECURE MESSAGE/i
-/(Meta lnc|Ads Manager Suite)/
+/(Meta lnc|Ads Manager Suite)/i
