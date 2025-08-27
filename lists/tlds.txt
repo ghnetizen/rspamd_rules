@@ -61,7 +61,6 @@
 /\.company$/i
 /\.lol$/i
 /\.pm$/i
-/\.cn$/i
 /\.re$/i
 /\.ir$/i
 /\.band$/i
