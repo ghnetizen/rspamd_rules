@@ -135,7 +135,7 @@
 /Password Expiry Notice/i
 /(Verify Your E-mail to enjoy Fresh Additions|Verify Your Contact E-mail address to enjoy Exciting Updates|Verify Your Contact Email|Fresh Additions)/i
 /Password Expiry Notification/i
-/(Email to|E-mail to|Email address to|E-mail address to)/i
+/(E-mail to|Email address to|E-mail address to)/i
 /(Confirm Email Address for|Confirm E-mail Address for|Confirm Email for|Confirm E-mail for)/i
 /Content Misuse/i
 /Unlicensed Media Detected/i
