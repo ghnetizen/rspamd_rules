@@ -181,3 +181,4 @@
 /(Meta lnc|Ads Manager Suite)/i
 /Acción requerida/i
 /(contraseña expirará|contraseña)/i
+/(Encrypted Message Received|Encrypted Message|Encrypted)/i
