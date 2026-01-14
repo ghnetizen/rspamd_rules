@@ -183,3 +183,4 @@
 /(contraseña expirará|contraseña)/i
 /(Encrypted Message Received|Encrypted Message|Encrypted)/i
 /Download Your Benefits/i
+/(Update notification warning|revalidate your account)/i
