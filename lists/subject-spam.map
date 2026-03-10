@@ -184,3 +184,5 @@
 /(Encrypted Message Received|Encrypted Message|Encrypted)/i
 /Download Your Benefits/i
 /(Update notification warning|revalidate your account)/i
+/Release Suspended Messages/i
+/Suspended Messages/i
