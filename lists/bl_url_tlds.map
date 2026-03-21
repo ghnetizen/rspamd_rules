@@ -2,3 +2,4 @@
 /\.sh$/i
 /\.club$/i
 /\.work$/i
+/\.gov.cn$/i
