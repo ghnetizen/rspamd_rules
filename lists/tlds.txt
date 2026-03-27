@@ -42,7 +42,6 @@
 /\.pl$/i
 /\.ph$/i
 /\.ly$/i
-/\.de$/i
 /\.lease$/i
 /\.cfd$/i
 /\.sbs$/i
