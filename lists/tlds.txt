@@ -77,3 +77,4 @@
 /\.mk$/i
 /\.bd$/i
 /\.com.cn$/i
+/\.skin$/i
