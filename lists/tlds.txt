@@ -76,5 +76,5 @@
 /\.management$/i
 /\.mk$/i
 /\.bd$/i
-/\.com.cn$/i
+/\.cn$/i
 /\.skin$/i
